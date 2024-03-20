@@ -61,7 +61,7 @@ export default {
       name,
       age,
       sayHello,
-      test2,//交出test2后，页面控制台输出了undefined说明在vue3中无法获取vue2这个也证明了vue2 vue3不能
+      test2,//交出test2后，页面控制台输出了undefined说明在vue3中无法获取vue2这个也证明了vue2 vue3不能混用
 
     }
     
